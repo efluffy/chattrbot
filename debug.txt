@@ -1,0 +1,24 @@
+SENT: ["inline_query_id" => 379586827564343674, "results" => [{"title":"Translation:","id":"1","input_message_content":{"message_text":"Это еще один тест!"},"description":"Это еще один тест!","type":"article"}]]
+RECD: 400:{"ok":false,"error_code":400,"description":"Bad Request: QUERY_ID_INVALID"}
+SENT: ["inline_query_id" => 943548098971209183, "results" => [{"type":"article","input_message_content":{"message_text":"in"},"title":"Translation:","description":"in","id":"1"}]]
+RECD: 400:{"ok":false,"error_code":400,"description":"Bad Request: QUERY_ID_INVALID"}
+SENT: ["inline_query_id" => 943548099696559379, "results" => [{"title":"Translation:","type":"article","input_message_content":{"message_text":" акции"},"id":"1","description":" акции"}]]
+RECD: 400:{"ok":false,"error_code":400,"description":"Bad Request: QUERY_ID_INVALID"}
+SENT: ["inline_query_id" => 943548098111573020, "results" => [{"id":"1","title":"Translation:","type":"article","description":"RU","input_message_content":{"message_text":"RU"}}]]
+RECD: 400:{"ok":false,"error_code":400,"description":"Bad Request: QUERY_ID_INVALID"}
+SENT: ["inline_query_id" => 943548099128571475, "results" => [{"description":"in","type":"article","title":"Translation:","id":"1","input_message_content":{"message_text":"in"}}]]
+RECD: 400:{"ok":false,"error_code":400,"description":"Bad Request: QUERY_ID_INVALID"}
+SENT: ["inline_query_id" => 943548099151500101, "results" => [{"type":"article","id":"1","description":" ша","input_message_content":{"message_text":" ша"},"title":"Translation:"}]]
+RECD: 400:{"ok":false,"error_code":400,"description":"Bad Request: QUERY_ID_INVALID"}
+SENT: ["inline_query_id" => 943548099177231681, "results" => [{"description":"�Sh","type":"article","id":"1","input_message_content":{"message_text":"�Sh"},"title":"Translation:"}]]
+RECD: 400:{"ok":false,"error_code":400,"description":"Bad Request: QUERY_ID_INVALID"}
+SENT: ["inline_query_id" => 943548099668588504, "results" => [{"description":" акции","type":"article","title":"Translation:","id":"1","input_message_content":{"message_text":" акции"}}]]
+RECD: 400:{"ok":false,"error_code":400,"description":"Bad Request: QUERY_ID_INVALID"}
+SENT: ["inline_query_id" => 943548099089235131, "results" => [{"description":" акции","input_message_content":{"message_text":" акции"},"title":"Translation:","type":"article","id":"1"}]]
+RECD: 400:{"ok":false,"error_code":400,"description":"Bad Request: QUERY_ID_INVALID"}
+SENT: ["inline_query_id" => 943548099499912992, "results" => [{"type":"article","description":"�","input_message_content":{"message_text":"�"},"title":"Translation:","id":"1"}]]
+RECD: 400:{"ok":false,"error_code":400,"description":"Bad Request: MESSAGE_EMPTY"}
+SENT: ["inline_query_id" => 943548098190785083, "results" => [{"input_message_content":{"message_text":"�You like when so"},"id":"1","description":"�You like when so","type":"article","title":"Translation:"}]]
+RECD: 400:{"ok":false,"error_code":400,"description":"Bad Request: QUERY_ID_INVALID"}
+SENT: ["inline_query_id" => 943548100055411184, "results" => [{"type":"article","description":"��","input_message_content":{"message_text":"��"},"id":"1","title":"Translation:"}]]
+RECD: 400:{"ok":false,"error_code":400,"description":"Bad Request: message must be non-empty"}
